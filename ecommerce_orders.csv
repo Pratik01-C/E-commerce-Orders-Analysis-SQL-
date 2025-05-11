@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_name,category,quantity,price,payment_method,order_status
+1001,C001,2023-01-05,Wireless Mouse,Electronics,2,750,UPI,Delivered
+1002,C002,2023-01-07,T-shirt,Clothing,1,500,Credit Card,Delivered
+1003,C001,2023-01-15,Headphones,Electronics,1,1200,Debit Card,Cancelled
+1004,C003,2023-01-18,Shoes,Footwear,1,1800,UPI,Delivered
+1005,C004,2023-02-01,Phone Case,Accessories,3,200,COD,Delivered
+1006,C005,2023-02-05,Laptop,Electronics,1,55000,Credit Card,Delivered
+1007,C002,2023-02-10,T-shirt,Clothing,2,500,UPI,Returned
+1008,C003,2023-02-12,Smart Watch,Electronics,1,2500,Debit Card,Delivered
+1009,C006,2023-02-18,Jacket,Clothing,1,1500,Credit Card,Delivered
+1010,C001,2023-03-01,Keyboard,Electronics,1,900,COD,Delivered
